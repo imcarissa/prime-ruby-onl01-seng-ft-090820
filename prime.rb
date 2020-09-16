@@ -1,5 +1,5 @@
 def prime(x)
-  start = 2
+  x = 2
     if x > 1
-      range = 
+      range = (x)
 end
