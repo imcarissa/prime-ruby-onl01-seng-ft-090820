@@ -6,4 +6,5 @@ def prime(number)
         test % number == 0
       end
     else false
+    end
 end
