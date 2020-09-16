@@ -1,4 +1,4 @@
-def prime(number)
+def prime(x)
   start = 2
-    
+    if number
 end
