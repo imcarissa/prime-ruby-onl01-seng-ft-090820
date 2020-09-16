@@ -1,4 +1,4 @@
 def prime(x)
   start = 2
-    if x 
+    if x > 1
 end
