@@ -5,6 +5,6 @@ def prime(number)
       range.none? do |test|
         test % number == 0
       end
-    else false
+        else false
     end
 end
